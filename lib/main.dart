@@ -98,7 +98,7 @@ class MyApp extends StatelessWidget {
                 // Second Container 
                 Container(
                   padding: EdgeInsets.symmetric(vertical: 16),  
-                  margin: EdgeInsets.only(top: 150, left: 300, right: 300),  
+                  margin: EdgeInsets.only(top: 1, left: 30, right: 30),  
                   decoration: BoxDecoration(
                     color: customColor,    
                     borderRadius: BorderRadius.circular(30), 
